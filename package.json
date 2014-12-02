@@ -1,0 +1,30 @@
+{
+  "name": "is-valid-username",
+  "version": "0.0.1",
+  "description": "Validate username address",
+  "main": "is-valid-username.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "tape test/*.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/miguelmota/is-valid-username"
+  },
+  "keywords": [
+    "validate",
+    "validator",
+    "username"
+  ],
+  "author": "Miguel Mota <hello@miguelmota.com> (http://www.miguelmota.com/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/miguelmota/is-valid-username/issues"
+  },
+  "homepage": "https://github.com/miguelmota/is-valid-username",
+  "dependencies": {
+    "tape": "^3.0.3"
+  }
+}
