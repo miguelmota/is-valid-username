@@ -1,6 +1,6 @@
 # is-valid-username
 
-Validate username
+Validate alpha-numeric username
 
 # Install
 
